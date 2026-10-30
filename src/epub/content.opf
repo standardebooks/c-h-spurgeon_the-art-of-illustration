@@ -65,8 +65,8 @@
 		<link href="https://en.wikipedia.org/wiki/Domenico_Fetti" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/nr91043037.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">Carlos Colon</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Colon, Carlos</meta>
+		<dc:contributor id="transcriber-1">Carlos Colón</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Colón, Carlos</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Princeton Theological Seminary Library</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Princeton Theological Seminary Library</meta>
